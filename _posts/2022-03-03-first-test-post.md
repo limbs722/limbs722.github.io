@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '첫글 테스트'
+title: "첫글 테스트"
 date: 2022-03-03 19:37:36
-categories: test
+categories: Test
 ---
 
 첫 글 테스트입니다.

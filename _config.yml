@@ -1,22 +1,22 @@
-title: 해보자
+title: 개발 오답노트
 author: limbs722
 email: limbs722@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  에러수집가, 에러메모장 그리고 공부한 것들
+  에러 수집가의 에러 메모장 그리고 공부한 것들
 show_excerpts: true # set to true to show excerpts on the homepage
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Lim Bo Seul
-  # tagline: Developer.
+  name: Limbs
+  tagline: Frontend Developer.
   date_format: '%b %-d, %Y'
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: 'assets/velog_profile.jpg' # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: 'en' # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  html_lang: 'en-US' # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     #- home
     - page
